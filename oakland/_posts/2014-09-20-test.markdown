@@ -6,6 +6,6 @@ categories: Parking
 departments: "Public Works"
 ---
 
-Meter hours are Monday through Saturday from 8 a.m. to 6 p.m. See below for Parking Holidays. 
+Parking meter hours are Monday through Saturday from 8 a.m. to 6 p.m.
 
 It costs $2 per hour to park at a parking meter.

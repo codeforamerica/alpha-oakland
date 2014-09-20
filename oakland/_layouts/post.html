@@ -4,6 +4,7 @@ layout: default
 <div class="post">
 
   <header class="post-header">
+  	<p class="breadcrumb"><a href="/">home</a> &gt; {{ page.categories }}</p>
     <h1 class="post-title">{{ page.title }}</h1>
     
   </header>
@@ -12,5 +13,15 @@ layout: default
     {{ content }}
   </article>
   <p class="post-meta">Last updated: {{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+   {% for post in site.posts %}
+    <h2 class="footer-heading">Information provided by {{ post.departments }}</h2>
 
+    <div class="footer-col-wrapper">
+      <div class="footer-col  footer-col-1">
+        <ul class="contact-list">
+          <li>{{ site.title }}</li>
+          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+        </ul>
+      </div>
+    {% endfor %}
 </div>
