@@ -1,12 +1,12 @@
 ---
-layout: post
+layout: article
 title:  "Welcome to Jekyll!"
 date:   2014-09-20 11:45:14
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve --watch`, which launches a web server and auto-regenerates your site when a file is updated.
+You’ll find this article in your `_articles` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve --watch`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+To add new articles, simply add a file in the `_articles` directory that follows the convention `YYYY-MM-DD-name-of-article.ext` and includes the necessary front matter. Take a look at the source for this article to get an idea about how it works.
 
 Jekyll also offers powerful support for code snippets:
 
