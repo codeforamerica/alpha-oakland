@@ -6,16 +6,19 @@ layout: default
 
   <h1 class="page-heading">Articles</h1>
 
-  <ul class="article-list">
-    {% for article in site.article %}
+  <ul class="post-list">
+    {% for post in site.posts %}
       <li>
-        <span class="article-meta">{{ article.date | date: "%b %-d, %Y" }}</span>
+        
 
         <h2>
-          <a class="article-link" href="{{ article.url | prepend: site.baseurl }}">{{ article.title }}</a>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
+
       </li>
     {% endfor %}
   </ul>
+
+  
 
 </div>
