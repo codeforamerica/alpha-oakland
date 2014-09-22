@@ -3,7 +3,7 @@ layout: post
 title:  "Parking Holidays"
 date:   2014-09-20 12:13:10
 categories: Parking
-departments: "Public Works"
+departments: "Parking Citation Assistance Center"
 ---
 
 * New Year's Day - January 1
