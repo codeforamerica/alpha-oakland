@@ -255,6 +255,22 @@
     margin-top:1em;
 }
 
+.search-main{
+    font-size:3em;
+    width:100%;
+    clear:both;
+    label{
+        display:block;
+    }
+    input{
+        font-size:48px;
+    }
+    input[type="text"]{
+        width:70%;
+        padding:5px;
+    }
+}
+
 /**
 * Departments 
 */
