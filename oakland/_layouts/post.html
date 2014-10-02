@@ -14,7 +14,7 @@ layout: default
   </article>
 
 
-	<p class="post-meta">Last updated: {{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+	
 
     <div class="department">
       <h2>Information provided by {{ page.departments }}</h2>
@@ -24,4 +24,5 @@ layout: default
       </ul>
     </div>
 
+    <p class="post-meta">Last updated: {{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
 </div>
