@@ -17,8 +17,3 @@ departments: "Parking Citation Assistance Center"
 
 If any of these holidays falls upon a Sunday, the following Monday is a holiday.
 
- 
-Special Parking Holidays
-
-As part of the 2013 Shop Oakland Grown for the Holidays campaign, the City of Oakland offered free parking every Saturday between Thanksgiving and New Year's Day, plus Plaid Friday which is November 29. The length of the free time period will be posted on the meter or kiosk (e.g., 30 minutes, 1 hour, 2 hours or 5 hours). Click here to learn more about the free holiday parking.
-For additional information on Parking Holidays, please contact the Parking Citation Assistance Center at (800) 500-6484.
