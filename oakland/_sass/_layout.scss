@@ -93,6 +93,7 @@
 .site-footer {
     border-top: 1px solid $grey-color-light;
     padding: $spacing-unit 0;
+    background-color:green;
 }
 
 .footer-heading {
@@ -252,4 +253,18 @@
 .search{
     float:right;
     margin-top:1em;
+}
+
+/**
+* Departments 
+*/
+
+.department{
+    font-size:1em;
+    width:40%;
+    background-color:#eee;
+    padding:1em;
+}
+.department h2{
+    font-size:1em;
 }

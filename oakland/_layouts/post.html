@@ -16,16 +16,12 @@ layout: default
 
 	<p class="post-meta">Last updated: {{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
 
-
-    <h2 class="footer-heading">Information provided by {{ page.departments }}</h2>
-
-    <div class="footer-col-wrapper">
-      <div class="footer-col  footer-col-1">
-        <ul class="contact-list">
-          <li>{{ site.title }}</li>
-          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-        </ul>
-      </div>
-
+    <div class="department">
+      <h2>Information provided by {{ page.departments }}</h2>
+      <ul class="contact-list">
+        <li>{{ site.title }}</li>
+        <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+      </ul>
+    </div>
 
 </div>
