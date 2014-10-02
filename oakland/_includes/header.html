@@ -4,15 +4,12 @@
 
     <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
 
-    <nav class="site-nav">
-     
-      <div class="trigger">
-        {% for page in site.pages %}
-          {% if page.title %}
-          <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-          {% endif %}
-        {% endfor %}
-      </div>
+    <nav class="languages">
+      <ul>
+        <li>English</li>
+        <li><a href="">Spanish</a></li>
+        <li><a href="">Chinese</a></li>
+      </ul>
     </nav>
 
   </div>
