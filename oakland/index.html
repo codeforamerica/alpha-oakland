@@ -4,6 +4,10 @@ layout: default
 
 <div class="home">
 
+  <div class="search-main">
+    <input type="search" placeholder="pay parking ticket" /><input type="submit" value="Search" />
+  </div>
+
   <h1 class="page-heading">Articles</h1>
   {% for category in site.categories %}
     <li><h2>{{ category | first }}</h2>
