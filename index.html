@@ -1,0 +1,49 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <div class="search-main">
+    <label>How can we help you?</label>
+    <input type="text" placeholder="Pay parking ticket" /><input type="submit" value="Search" />
+  </div>
+
+  <section>
+    <h1>City services</h1>
+    {% for category in site.categories %}
+      <li><h2>{{ category | first }}</h2>
+        <ul class="post-list">
+        {% for posts in category %}
+          {% for post in posts %}
+            {% if post.url %}
+            <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+            {% endif %}
+          {% endfor %}
+        {% endfor %}
+        </ul>
+      </li>
+    {% endfor %}
+  </section>
+
+  <section>
+    <h1>Community news</h1>
+    <ul>
+      <li></li>
+      <li></li>
+      <li></li>
+    </ul>
+  </section>
+  
+  <section>
+    <h1>City departments</h1>
+    <ul>
+      <li></li>
+      <li></li>
+      <li></li>
+    </ul>
+  </section>
+
+  
+
+</div>
