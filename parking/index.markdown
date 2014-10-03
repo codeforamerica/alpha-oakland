@@ -4,4 +4,4 @@ title:  "Parking"
 ---
 
 * [Parking hours and rates](/parking/parking-hours-and-rates)
-* [Parking holidats](/parking/parking-holidays)
+* [Parking holidays](/parking/parking-holidays)
