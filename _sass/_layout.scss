@@ -3,8 +3,8 @@ x/**
  */
 .site-header {
     border-bottom: 1px solid $grey-color-light;
-    min-height: 56px;
-
+    min-height: 56px; 
+    overflow:auto;
     // Positioning context for the mobile navigation icon
     position: relative;
 }
@@ -85,20 +85,7 @@ x/**
     }
 }
 
-/**
- * Top level navigation
- */
-.main-nav{
-    display:block;
-    clear:both;
-    ul{
-        margin:0;
-        padding:0;
-        li{
-            display:inline;
-        }
-    } 
-}
+
 
 
 /**
@@ -266,12 +253,34 @@ x/**
 }
 
 /**
+ * Top level navigation
+ */
+.main-nav{
+    display:block;
+    float:right;
+    width:60%;
+    ul{
+        width:100%;
+        margin:0;
+        padding:0;
+        li{
+            display:inline;
+            padding-right:1.5em;
+            font-weight:bold;
+        }
+    } 
+}
+
+/**
 * Search
 */
 
 .search{
-    float:right;
+    display:block;
     margin-top:1em;
+    width:30%;
+    float:left;
+    clear:both;
 }
 
 .search-main{
