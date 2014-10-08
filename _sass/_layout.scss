@@ -1,12 +1,13 @@
-x/**
+/**
  * Site header
  */
 .site-header {
     border-bottom: 1px solid $grey-color-light;
-    min-height: 56px; 
-    overflow:auto;
+    min-height: 56px;
+    background-color:#eee;
     // Positioning context for the mobile navigation icon
     position: relative;
+    
 }
 
 .site-title {
@@ -258,7 +259,7 @@ x/**
 .main-nav{
     display:block;
     float:right;
-    width:60%;
+    width:65%;
     ul{
         width:100%;
         margin:0;
