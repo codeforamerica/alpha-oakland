@@ -7,7 +7,7 @@
     background-color:#eee;
     // Positioning context for the mobile navigation icon
     position: relative;
-    
+    padding-bottom:1em;
 }
 
 .site-title {
@@ -260,6 +260,7 @@
     display:block;
     float:right;
     width:65%;
+    margin-top:-40px;
     ul{
         width:100%;
         margin:0;
@@ -278,7 +279,7 @@
 
 .search{
     display:block;
-    margin-top:1em;
+    margin-top:0;
     width:30%;
     float:left;
     clear:both;
@@ -294,9 +295,11 @@
     input{
         font-size:48px;
     }
-    input[type="text"]{
+    input[type="search"]{
         width:70%;
         padding:5px;
+        -webkit-appearance: none;
+        -moz-appearance: none;
     }
 }
 
@@ -309,6 +312,7 @@
     width:40%;
     background-color:#eee;
     padding:1em;
+    margin-bottom:1em;
 }
 .department h2{
     font-size:1em;
