@@ -288,9 +288,10 @@
     input{
         -webkit-appearance: none;
         -moz-appearance: none;
+        padding:4px;
     }
     input[type="submit"]{
-        background-color:#fff;
+        background-color:#000;
         background-image:url("media/search-small.png");
         height:20px;
         width:20px;
