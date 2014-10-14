@@ -291,7 +291,7 @@
         padding:4px;
     }
     input[type="submit"]{
-        background-color:#eee;
+        background-color:transparent;
         background-image:url("media/search-small.png");
         height:20px;
         width:20px;
@@ -319,13 +319,12 @@
         -moz-appearance: none;
     }
     input[type="submit"]{
-        background-color:#fff;
+        background-color:transparent;
         background-image:url("media/search-large.png");
         height:40px;
         width:40px;
         text-indent:-9999px;
         border:none;
-
         margin-left:10px;
         margin-top:10px;
     }
