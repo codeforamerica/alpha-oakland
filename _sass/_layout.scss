@@ -295,7 +295,8 @@
         -webkit-appearance: none;
         -moz-appearance: none;
         padding:4px;
-        width:230px;
+        border:1px solid black;
+        width:220px;
     }
     input[type="submit"]{
         background-color:transparent;
@@ -306,6 +307,7 @@
         background-position:center;
         text-indent:-9999px;
         border:none;
+        margin-left:4px;
     }
 }
 
@@ -324,6 +326,7 @@
         padding:5px;
         -webkit-appearance: none;
         -moz-appearance: none;
+        border:1px solid black;
     }
     input[type="submit"]{
         background-color:transparent;
