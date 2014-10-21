@@ -317,6 +317,7 @@
     clear:both;
     label{
         display:block;
+        line-height:1em;
     }
     input{
         font-size:30px;
@@ -376,7 +377,7 @@
             display:block;
             width:33%;
             float:left;
-            min-height:165px;
+            min-height:150px;
             h2{
                 font-size:1em;
                 margin:0;
@@ -395,7 +396,24 @@
             }
             
 
-            
+        &.feature{
+            background-color:#e1ffbf;
+            width:100%;
+            padding:0.5em;
+            margin-right:0.5em;
+            min-height:0;
+            ul {
+                margin:0;
+                padding:0;
+                li{
+                font-size:0.85em;
+                margin:0;
+                padding:0;
+                min-height:0;
+                }
+            }
+        }  
         }
+
     }
 }
