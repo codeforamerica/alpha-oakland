@@ -2,9 +2,9 @@
  * Site header
  */
 .site-header {
-    border-bottom: 1px solid $grey-color-light;
+    border-bottom: 1px solid #4f8524;
     min-height: 56px;
-    background-color:#eee;
+    background-color:#3ab344;
     // Positioning context for the mobile navigation icon
     position: relative;
     padding-bottom:1em;
@@ -95,7 +95,11 @@
 .site-footer {
     border-top: 3px solid #31660f;
     padding: $spacing-unit 0;
-    background-color:#5d9632;
+    padding-top:300px;
+    background-color:#3ab344;
+    background-image:url("media/oakland-logo.png");
+    background-repeat:no-repeat;
+    background-position:center 20px;
 }
 
 .footer-heading {
@@ -271,6 +275,7 @@
             padding-right:1.5em;
             font-weight:bold;
             line-height:2em;
+            color:blue;
         }
     } 
 }
