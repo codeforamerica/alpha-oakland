@@ -27,6 +27,7 @@ When, where and how to legally park your car
 * [Curb Colors and What They Mean](/utilities-streets/parking/parking-holidays)
 * [City-Owned Garages & Lots](/utilities-streets/parking/parking-holidays)
 * [Street Sweeping](/utilities-streets/parking/parking-holidays)
+* [Report a Broken Meter](/utilities-streets/parking/parking-holidays)
 
 ### Parking permits
 
@@ -36,6 +37,3 @@ Obtaining permits to park a car in residental streets
 * [Residential Parking Permits](/utilities-streets/parking/parking-holidays)
 * [Parking Obstruction Permits](/utilities-streets/parking/parking-holidays)
 
-### Report a problem
-
-* [Report a Broken Meter](/utilities-streets/parking/parking-holidays)
