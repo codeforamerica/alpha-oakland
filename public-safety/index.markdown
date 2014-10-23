@@ -3,5 +3,10 @@ layout: category
 title:  "Public Safety"
 ---
 
-* [Parking hours and rates](/parking/parking-hours-and-rates)
-* [Parking holidays](/parking/parking-holidays)
+* Citizens’ Police Review Board
+* Emergency Alert Sirens
+* Emergency Preparedness
+* Fire Department
+* Measure Y
+* Oakland Animal Services
+* Police Department 

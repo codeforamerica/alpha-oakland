@@ -3,5 +3,7 @@ layout: category
 title:  "Jobs"
 ---
 
-* [Parking hours and rates](/parking/parking-hours-and-rates)
-* [Parking holidays](/parking/parking-holidays)
+* Jobs with the City of Oakland 
+* Local Employment Program
+* Private Industry Council
+* Workforce Investment Board
