@@ -2,7 +2,7 @@
 layout: article
 title:  "Residential parking permits"
 date:   2014-09-20 12:13:10
-categories: Parking
+categories: parking
 departments: "Parking Citation Assistance Center"
 ---
 

@@ -2,7 +2,7 @@
 layout: article
 title:  "Curb colors and what they mean"
 date:   2014-09-20 12:13:10
-categories: Parking
+categories: utilities-streets/parking
 departments: "Parking Citation Assistance Center"
 ---
 
