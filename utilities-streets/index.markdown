@@ -24,8 +24,8 @@ When, where and how to legally park your car
 * [Parking hours and rates](/utilities-streets/parking/parking-hours-and-rates)
 * [Parking holidays](/utilities-streets/parking/parking-holidays)
 * [Types of parking meters](/utilities-streets/parking/parking-meters)
-* [Curb Colors and what they mean](/utilities-streets/parking/curb-colors)
-* [City-Owned garages & lots](/utilities-streets/parking/city-garages-lots)
+* [Curb colors and what they mean](/utilities-streets/parking/curb-colors)
+* [City-owned garages & lots](/utilities-streets/parking/city-garages-lots)
 * [Street sweeping](/utilities-streets/parking/street-sweeping)
 * [Report a broken meter](/utilities-streets/parking/report-broken-meter)
 
