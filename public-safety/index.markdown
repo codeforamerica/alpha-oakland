@@ -10,12 +10,15 @@ title:  "Public Safety"
 * [Emergency Alert Sirens](/public-safety/emergency-alert-sirens)
 * [Emergency Preparedness](/public-safety/emergency-preparedness)
 
-## Services
+## City services
 
 * [Oakland Animal Services](/public-safety/animal-services)
-* [Measure Y]()
+
+## Public safety initiatives
+
+* [Violence prevention (Measure Y)](/public-safety/measure-y)
 
 ## Reports
 
-* [Citizens’ Police Review Board]()
+* [Citizens’ Police Review Board](/public-safety/police-review-board)
 
