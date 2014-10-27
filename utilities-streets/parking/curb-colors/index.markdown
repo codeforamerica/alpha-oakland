@@ -1,6 +1,6 @@
 ---
 layout: article
-title:  "Curb Colors and what they mean"
+title:  "Curb colors and what they mean"
 date:   2014-09-20 12:13:10
 categories: Parking
 departments: "Parking Citation Assistance Center"

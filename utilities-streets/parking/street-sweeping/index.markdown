@@ -1,11 +1,15 @@
 ---
 layout: article
-title:  "Parking Hours & Rates"
+title:  "Street sweeping"
 date:   2014-09-20 12:13:10
 categories: Parking
 departments: "Parking Citation Assistance Center"
 ---
 
-Parking meter hours are Monday through Saturday from 8 a.m. to 6 p.m.
+Major arterials and commercial areas are swept at night and residential areas are swept during the day. Notification is posted by official signage with restricted times on each block so that vehicles can be moved accordingly.
 
-It costs $2 per hour to park at a parking meter.
+Be sure to look for the street sweeping signs when you park your vehicle.
+
+Regular street sweeping keeps our streets cleaner and safer while helping to reduce the amount of trash that enters the storm drain system, which flows into San Francisco Bay. The City's street sweeping schedule provides the time needed for street sweeping routes to be completed while preserving on-street parking for residents and businesses.
+
+For more information on street sweeping, including holidays when sweeping does not occur, please visit our Street Sweeping web page.
