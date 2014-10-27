@@ -1,8 +1,8 @@
 ---
 layout: article
-title:  "Parking Holidays"
+title:  "Jobs with the City of Oakland"
 date:   2014-09-20 12:13:10
-categories: Parking
+categories: jobs
 departments: "Parking Citation Assistance Center"
 ---
 
