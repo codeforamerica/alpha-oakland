@@ -3,10 +3,19 @@ layout: category
 title:  "Public Safety"
 ---
 
-* Citizens’ Police Review Board
-* Emergency Alert Sirens
-* Emergency Preparedness
-* Fire Department
-* Measure Y
-* Oakland Animal Services
-* Police Department 
+### Emergency
+
+* [Police Department](/departments/police)
+* [Fire Department](/departments/fire)
+* [Emergency Alert Sirens](/public-safety/emergency-alert-sirens)
+* [Emergency Preparedness](/public-safety/emergency-preparedness)
+
+### Services
+
+* [Oakland Animal Services](/public-safety/animal-services)
+* [Measure Y]()
+
+### Reports
+
+* [Citizens’ Police Review Board]()
+
