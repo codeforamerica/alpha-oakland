@@ -1,10 +1,11 @@
 ---
 layout: category
+category: utilities-streets
 title:  "Parking"
 ---
 
 
-## Parking citations
+### Parking citations
 
 What to do if you receive a parking ticket, contesting tickets and general fine information
 
