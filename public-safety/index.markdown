@@ -3,19 +3,19 @@ layout: category
 title:  "Public Safety"
 ---
 
-### Emergency
+## Emergency
 
 * [Police Department](/departments/police)
 * [Fire Department](/departments/fire)
 * [Emergency Alert Sirens](/public-safety/emergency-alert-sirens)
 * [Emergency Preparedness](/public-safety/emergency-preparedness)
 
-### Services
+## Services
 
 * [Oakland Animal Services](/public-safety/animal-services)
 * [Measure Y]()
 
-### Reports
+## Reports
 
 * [Citizens’ Police Review Board]()
 
