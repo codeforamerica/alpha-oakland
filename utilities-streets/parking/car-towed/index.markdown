@@ -1,11 +1,15 @@
 ---
 layout: article
-title:  "Parking Hours & Rates"
+title:  "What to do if your car is towed"
 date:   2014-09-20 12:13:10
 categories: Parking
 departments: "Parking Citation Assistance Center"
 ---
 
-Parking meter hours are Monday through Saturday from 8 a.m. to 6 p.m.
+Parking garages and off-street parking lots represent an essential component of Oakland's parking systems. The City's off-street parking facilities are designed and operated to work in concert with on-street parking.
 
-It costs $2 per hour to park at a parking meter.
+To find a City-owned garage or lot near your work place or favorite shop or restaurant, check out the Oakland Parking Map below. 
+
+Inquiries concerning a particular garage should be directed to the parking operator. Contact information can be found on the map below by clicking on the “P” linked to the garage.
+
+Inquiries concerning monthly parking permits available on a limited basis at certain metered surface lots should be directed to the City by calling (510) 238-6154.  

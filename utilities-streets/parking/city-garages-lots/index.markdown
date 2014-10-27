@@ -1,6 +1,6 @@
 ---
 layout: article
-title:  "Parking Hours & Rates"
+title:  "City-Owned Garages & Lots"
 date:   2014-09-20 12:13:10
 categories: Parking
 departments: "Parking Citation Assistance Center"
