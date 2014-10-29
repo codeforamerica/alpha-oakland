@@ -6,14 +6,16 @@ categories: utilities-streets/parking
 departments: "Parking Citation Assistance Center"
 ---
 
-If you feel you are due a refund for overpayment for parking tickets associated with your license plate, please complete and return a Refund Request Form. Click here to download the Refund Request Form. Please note that you must also provide proof of payment as detailed on the form. http://www2.oaklandnet.com/Parking/OAK042515
+<p class="cta">Complete and return the <a href="http://www2.oaklandnet.com/Parking/OAK042515">Refund Request Form</a></p>
 
-Completed forms and proof of payment may be dropped off or mailed to:
+### What you need to know
 
-Parking Citation Assistance Center
-250 Frank H. Ogawa Plaza, Suite 6300 
+* Include proof of payment
+* Processing takes 4 to 6 weeks
+* Return the form and proof of payment to the address below, or by fax
+
+Parking Citation Assistance Center <br />
+250 Frank H. Ogawa Plaza, Suite 6300 <br /> 
 Oakland, CA 94612
-Completed forms and proof of payment may be faxed:
-(510) 986-2699
 
-Please allow four to six weeks for processing.
+Fax: (510) 986-2699
