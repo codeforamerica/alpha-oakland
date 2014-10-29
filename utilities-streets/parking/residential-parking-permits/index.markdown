@@ -10,10 +10,10 @@ departments: "Parking Citation Assistance Center"
 
 ## What you need to know 
 
-* Provide the qualifying documents (the name and address on the application must match those on the documents):
-* Current vehicle registration (must be registered in California to the address where permit is requested)
-* Current California identification
-* Current utility bill (a gas, electric, water or garbage bill issued within the last 30 days) or a lease agreement at address where permit is requested
+* You must include the following current documents with your application:
+	* Vehicle registration (must be registered in California to the address where permit is requested)
+	* California ID
+	* A utility bill (a gas, electric, water or garbage bill issued within the last 30 days) or a lease agreement at address where permit is requested
 
 Payment of Fees
 The cost of a permit varies by area. See fees section below.
