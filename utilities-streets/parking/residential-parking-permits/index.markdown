@@ -14,18 +14,18 @@ departments: "Parking Citation Assistance Center"
 	* Vehicle registration (must be registered in California to the address where permit is requested)
 	* California ID
 	* A utility bill (a gas, electric, water or garbage bill issued within the last 30 days) or a lease agreement at address where permit is requested
+	* The correct fee
 
-Payment of Fees
-The cost of a permit varies by area. See fees section below.
 
  
 Applications and support documents can be submitted in person or mailed to: 
-Parking Citation Assistance Center
-Attn: Residential Parking Permits
-250 Frank H. Ogawa Plaza, Suite 6300
-Oakland, CA 94612 
-Hours: Mondays, Tuesdays, Thursdays and Fridays from 9 a.m. to 4:30 p.m. and Wednesdays from 9:30 a.m. to 4:30 p.m.
-Once you receive a permit, click here for an instruction sheet on correct permit placement on your vehicle.
+
+Parking Citation Assistance Center<br />
+Attn: Residential Parking Permits<br />
+250 Frank H. Ogawa Plaza, Suite 6300<br />
+Oakland, CA 94612 <br />
+
+In-person hours: Mondays, Tuesdays, Thursdays and Fridays from 9 a.m. to 4:30 p.m. and Wednesdays from 9:30 a.m. to 4:30 p.m.
 
 <!--Who can apply for an RRP?
 
