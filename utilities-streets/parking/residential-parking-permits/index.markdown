@@ -10,7 +10,7 @@ departments: "Parking Citation Assistance Center"
 
 ## What you need to know 
 
-You must include the following current documents with your application:
+You must include the following with the application:
 
 * Vehicle registration (must be registered in California to the address where permit is requested)
 * California ID
