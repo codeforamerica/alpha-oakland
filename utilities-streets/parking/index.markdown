@@ -34,6 +34,9 @@ When, where and how to legally park your car
 Obtaining permits to park a car in residental streets
 
 * [Disabled parking](/utilities-streets/parking/disabled-parking)
-* [Residential parking permits](/utilities-streets/parking/residential-parking-permits)
+* [Get a new residential Parking Permit](/utilities-streets/parking/residential-parking-permits)
+* [Renew a Residential Parking Permit]()
+* [Who can get a Residential Parking Permit]()
+* [Order temporary visitor Residential Parking Permits]()
 * [Parking obstruction permits](/utilities-streets/parking/parking-obstruction-permits)
 

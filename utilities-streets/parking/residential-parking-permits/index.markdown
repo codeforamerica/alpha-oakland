@@ -1,22 +1,20 @@
 ---
 layout: article
-title:  "Residential parking permits"
+title:  "Get a new Residential Parking Permit (RPP)"
 date:   2014-09-20 12:13:10
-categories: parking
+categories: utilities-streets/parking
 departments: "Parking Citation Assistance Center"
 ---
 
-Certain residential neighborhoods that border commercial areas within the City participate in the Residential Parking Permit (RPP) program. Vehicles displaying the correct permit are able to park in that neighborhood for an extended period of time.
-Parking permits are issued to a vehicle registered to an eligible address, not to a person. So if you move into a neighborhood that has RPP, you'll need to update the vehicle's registration to the new address with DMV before applying for a permit. Please remember to update both your vehicle registration and driver license as these are two separate records with DMV. To update online, please visit http://dmv.ca.gov/online/onlinesvcs.htm. Print out the update confirmation and submit it as part of your supporting documents.
-The City of Oakland requires that all delinquent parking tickets be cleared (paid or adjudicated) prior to issuance of any permit for a particular vehicle. To obtain citation information or pay your citation, call (800) 500-6484 or click here to go to the online payment system.
-How to Get a Residential Parking Permit
+<p class="cta">Download and complete the <a href="">application form</a> (pdf)</p>
 
-Complete the application: Click here to download the application
-Provide the qualifying documents (the name and address on the application must match those on the documents):
-Current vehicle registration (must be registered in California to the address where permit is requested)
-Current California identification
-Current utility bill (a gas, electric, water or garbage bill issued within the last 30 days) or a lease agreement at address where permit is requested
- 
+## What you need to know 
+
+* Provide the qualifying documents (the name and address on the application must match those on the documents):
+* Current vehicle registration (must be registered in California to the address where permit is requested)
+* Current California identification
+* Current utility bill (a gas, electric, water or garbage bill issued within the last 30 days) or a lease agreement at address where permit is requested
+
 Payment of Fees
 The cost of a permit varies by area. See fees section below.
 
@@ -28,7 +26,23 @@ Attn: Residential Parking Permits
 Oakland, CA 94612 
 Hours: Mondays, Tuesdays, Thursdays and Fridays from 9 a.m. to 4:30 p.m. and Wednesdays from 9:30 a.m. to 4:30 p.m.
 Once you receive a permit, click here for an instruction sheet on correct permit placement on your vehicle.
+
+<!--Who can apply for an RRP?
+
+Certain residential neighborhoods that border commercial areas within the City participate in the Residential Parking Permit (RPP) program. Vehicles displaying the correct permit are able to park in that neighborhood for an extended period of time.
+Parking permits are issued to a vehicle registered to an eligible address, not to a person. So if you move into a neighborhood that has RPP, you'll need to update the vehicle's registration to the new address with DMV before applying for a permit. Please remember to update both your vehicle registration and driver license as these are two separate records with DMV. To update online, please visit http://dmv.ca.gov/online/onlinesvcs.htm. Print out the update confirmation and submit it as part of your supporting documents.
+The City of Oakland requires that all delinquent parking tickets be cleared (paid or adjudicated) prior to issuance of any permit for a particular vehicle. To obtain citation information or pay your citation, call (800) 500-6484 or click here to go to the online payment system.
+
+
+How to Get a Residential Parking Permit
+
+
+ 
+
+
+
 How to Renew a Residential Parking Permit
+
 Online
 Permit holders that receive a letter indicating they are eligible for online renewal, should click here to go to the online renewal system. 
 In-Person or By Mail
@@ -80,4 +94,4 @@ Area M - $150
 Permit Replacement Fee - $10
 **In Area E, Area N (first year) and some parts of Areas A and G there is no fee for Residential New Annual, New Vehicle and Renewal Permits. For more information or to see if your address qualifies, please call 1-800-500-6484. 
 Want to Establish a Residential Parking Permit in Your Neighborhood?
-Individuals interested in implementing a Residential Permit Parking in their neighborhoods should visit http://www2.oaklandnet.com/Government/o/PWA/ResidentialPermitParking/index.htm and review FAQs No. 20-28. Click here to view the applications and petition forms. For additional information, call the Transportation Services of Oakland Public Works Agency at (510) 238-3466.
+Individuals interested in implementing a Residential Permit Parking in their neighborhoods should visit http://www2.oaklandnet.com/Government/o/PWA/ResidentialPermitParking/index.htm and review FAQs No. 20-28. Click here to view the applications and petition forms. For additional information, call the Transportation Services of Oakland Public Works Agency at (510) 238-3466.-->

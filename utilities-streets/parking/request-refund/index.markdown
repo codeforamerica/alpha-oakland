@@ -6,9 +6,9 @@ categories: utilities-streets/parking
 departments: "Parking Citation Assistance Center"
 ---
 
-<p class="cta">Complete and return the <a href="http://www2.oaklandnet.com/Parking/OAK042515">Refund Request Form</a></p>
+<p class="cta">Complete and return the <a href="http://www2.oaklandnet.com/Parking/OAK042515">Refund Request Form</a> (pdf)</p>
 
-### What you need to know
+## What you need to know
 
 * Include proof of payment
 * Processing takes 4 to 6 weeks
