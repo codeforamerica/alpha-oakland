@@ -12,6 +12,7 @@ github_username:  jekyll
 permalink: /:categories/:title/
 # Build settings
 markdown: kramdown
+include: ['.htaccess']
 languages:
 - en: English
 - zh-cn: Chinese
