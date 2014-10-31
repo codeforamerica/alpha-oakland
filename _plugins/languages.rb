@@ -23,7 +23,7 @@ module Languages
           
           # Assign a name like base.language.extension, compatible with Apache:
           # http://httpd.apache.org/docs/2.2/content-negotiation.html#naming
-          new_page1.name = old_page.basename + old_page.ext + '.' + iso_code
+          new_page1.name = old_page.basename + '.' + iso_code + old_page.ext
           new_page1.process(new_page1.name)
 
           new_page1.data = old_page.data.clone()
