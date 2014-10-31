@@ -1,2 +1,3 @@
 Options +MultiViews
+DirectoryIndex index.en.html index.es.html index.zh-cn.html
 
