@@ -13,7 +13,7 @@ module Languages
       
         # Delete the initial page.
         print 'replace ' + old_page.path + ' --'
-        site.pages.delete(old_page)
+        #site.pages.delete(old_page)
         
         site.config['languages'].each do |lang|
           iso_code = lang.keys[0]
