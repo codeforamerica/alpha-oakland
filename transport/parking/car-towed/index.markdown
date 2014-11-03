@@ -1,15 +1,23 @@
 ---
-layout: article
-title:  "What to do if your car is towed"
-date:   2014-09-20 12:13:10
-categories: transport/parking
-departments: "Parking Citation Assistance Center"
+"body-es": ""
+"body-zh-cn": ""
+"layout": |-
+  article
+"title": |-
+  What to do if your car is towed
+"title-es": |-
+  Qué hacer si su automóvil es remolcado
+"title-zh-cn": ""
 ---
+<p class="cta">Call (510) 635-3211 or visit the <a href="http://www.abimpound.com/towed.html">Impound website</a></p>
 
-Parking garages and off-street parking lots represent an essential component of Oakland's parking systems. The City's off-street parking facilities are designed and operated to work in concert with on-street parking.
+## What you need to know
 
-To find a City-owned garage or lot near your work place or favorite shop or restaurant, check out the Oakland Parking Map below. 
+* You will need to pay all outstanding fines and towing fees to reclaim your car
+* Payment plans are not available 
+* A vehicle can be towed in Oakland for any of the following reasons:
+ * Anytime after a boot is placed on the vehicle, and payment for the boot fee and parking tickets have not been received
+ * A vehicle registration (plate tag) has been expired for more than six (6) months
+ * A vehicle has more than $2,500 in unpaid parking tickets
+ * A vehicle has five (5) or more unpaid tickets in the State of California
 
-Inquiries concerning a particular garage should be directed to the parking operator. Contact information can be found on the map below by clicking on the “P” linked to the garage.
-
-Inquiries concerning monthly parking permits available on a limited basis at certain metered surface lots should be directed to the City by calling (510) 238-6154.  
