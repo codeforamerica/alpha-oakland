@@ -1,10 +1,10 @@
 ---
 "body-es": "<p class=\"cta\">Completar y devolver el <a href=\"http://www2.oaklandnet.com/Parking/OAK042515\"\
-  >Formulario de Solicitud de Reembolso</a> (pdf)</p>\n\n## What you need to know\n\
-  \n* Include proof of payment\n* Processing takes 4 to 6 weeks\n* Return the form\
-  \ and proof of payment to the address below, or by fax\n\nParking Citation Assistance\
-  \ Center <br />\n250 Frank H. Ogawa Plaza, Suite 6300 <br /> \nOakland, CA 94612\n\
-  \nFax: (510) 986-2699"
+  >Formulario de Solicitud de Reembolso</a> (pdf)</p>\n\n## Lo que usted necesita\
+  \ saber\n\n* Incluya comprobante de pago\n* Procesamiento de toma de 4 a 6 semanas\n\
+  * Devuelva el formulario y el justificante de pago a la dirección abajo, o por fax\n\
+  \nParking Citation Assistance Center <br />\n250 Frank H. Ogawa Plaza, Suite 6300\
+  \ <br /> \nOakland, CA 94612\n\nFax: (510) 986-2699"
 "body-zh-cn": ""
 "layout": |-
   article
