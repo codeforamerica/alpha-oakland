@@ -1,21 +1,28 @@
 ---
-layout: article
-title:  "What to do if your car is booted"
-date:   2014-09-20 12:13:10
-categories: transport/parking
-departments: "Parking Citation Assistance Center"
+"body-es": |
+  <p class="cta">Siga las instrucciones que aparecen en la etiqueta colocada en su coche o llame al (800) 500-6484</p>
+
+  ## Lo que usted necesita saber
+
+  * Usted puede pagar su multa con tarjeta de crédito o en efectivo, en el Centro de Asistencia de Aparcamiento Cita
+  * No intente conducir un coche arrancado (daño severo puede ocurrir)
+  * Se le dará un lugar para volver al inicio
+  * Los infractores de aparcamiento más graves con cinco o más multas de estacionamiento en mora a menudo se arrancan en lugar de remolcados
+"body-zh-cn": ""
+"layout": |-
+  article
+"title": |-
+  What to do if your car is booted
+"title-es": |-
+  Qué hacer si tu coche se arranca
+"title-zh-cn": ""
 ---
+<p class="cta">Follow the instructions found on the sticker placed on your car or call (800) 500-6484</p>
 
-If your vehicle is booted, do not attempt to drive the vehicle as severe damage may occur to your vehicle.
+## What you need to know
 
-A sticker will be prominently displayed on a window of your vehicle indicating your vehicle has been immobilized.
-Instructions in English, Chinese and Spanish will also be placed on your vehicle with a telephone number to the Help Center which operates 24/7. Phone assistance is available in multiple languages. 
-
-If you do not have a credit card, you can pay your delinquent parking tickets in cash at the Parking Citation Assistance Center, 250 Frank H. Ogawa Plaza, 6th Floor. Payment plan options are available. Please call (800) 500-6484 for more information.
-
-Fines can be paid over the phone with a credit/debit card or e-check. The owner will then receive a six-digit code which will release the boot and allow safe removal of the device. Live operators at the Help Center assist callers with payment options and boot removal steps. The vehicle owner is also given a location to return the boot to. In most cases, motorists can be back on the road in about five minutes.
-
-<img src="http://www2.oaklandnet.com/oakca1/groups/ceda/documents/image/oak046030.jpg" />
-
-The parking boot program targets the most serious parking violators who have five (5) or more delinquent parking tickets. It was introduced as an alternative to towing, thereby saving vehicle owners from having to visit four separate locations during normal business hours to reclaim their vehicle.
+* You can pay your fine by credit card or in cash at the Parking Citation Assistance Center
+* Do not attempt to drive a booted car (severe damage may occur)
+* You will need to return the boot
+* The most serious parking violators with five or more delinquent parking tickets will often be booted instead of towed
 
