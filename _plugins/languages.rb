@@ -1,16 +1,9 @@
 module Languages
   class Generator < Jekyll::Generator
     def generate(site)
-      print site.pages
-      print "\n\n"
-      print site.config['languages']
-      print "\n\n"
-      
-      print site.pages.length
-      print "\n"
+      print 'start with ', site.pages.length, " pages.\n"
       
       old_pages = site.pages.dup()
-      
       old_pages.each do |old_page|
       
         if not old_page.data.include?('layout')
@@ -68,8 +61,7 @@ module Languages
         print "\n"
       end
 
-      print site.pages.length
-      print "\n"
+      print 'end with ', site.pages.length, " pages.\n"
       
     end
   end
