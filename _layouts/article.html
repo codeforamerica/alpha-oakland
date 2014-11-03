@@ -23,11 +23,5 @@ layout: default
     </div>
 
     <p class="post-meta">Last updated: {{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
-    <nav class="languages">
-      <ul>
-        {% for language in page.languages %}
-           <li><a href="{{ language.path }}">{{ language.name }}</a></li>
-        {% endfor %}
-      </ul>
-    </nav>
+    {% include languages.html %}
 </div>
