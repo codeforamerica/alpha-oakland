@@ -12,8 +12,14 @@ module Languages
       old_pages = site.pages.dup()
       
       old_pages.each do |old_page|
+      
+        if not old_page.data.include?('layout')
+          # Skip anything that doesn't have a layout.
+          next
+        end
+      
         # Delete the initial page.
-        print 'delete ' + old_page.path + "\n"
+        print 'replace ' + old_page.path + ' --'
         site.pages.delete(old_page)
         
         site.config['languages'].each do |lang|
@@ -36,6 +42,7 @@ module Languages
           end
           
           site.pages << new_page1
+          print ' ' + new_page1.name
 
           if false
             new_page2 = old_page.clone()
@@ -54,8 +61,11 @@ module Languages
             end
 
             site.pages << new_page2
+            print ' ' + new_page1.name
           end
         end
+        
+        print "\n"
       end
 
       print site.pages.length
