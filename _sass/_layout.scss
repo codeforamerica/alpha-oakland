@@ -454,7 +454,7 @@
     .category ul li,
     .main-section ul li{
             display:block;
-            width:100%; 
+            width:90%; 
             min-height:0;   
             margin-bottom:0;  
         }
@@ -463,7 +463,7 @@
         display:none;
     }
     .search{
-        width:100%;
+        width:90%;
     }
     .site-header{
         margin-bottom:0;
@@ -474,5 +474,9 @@
     }
     .disclaimer{
         margin:0 1em;
+    }
+    .department{
+        width:90%;
+        margin:0
     }
 }
