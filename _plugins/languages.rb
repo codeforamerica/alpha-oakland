@@ -15,6 +15,9 @@ module Languages
         print 'replace ' + old_page.path + ' --'
         #site.pages.delete(old_page)
         
+        page_languages = []
+        old_page.data['languages'] = page_languages
+        
         site.config['languages'].each do |lang|
           iso_code = lang.keys[0]
           language = lang[iso_code]
@@ -26,8 +29,9 @@ module Languages
           new_page1.process(new_page1.name)
 
           new_page1.data = old_page.data.clone()
-          new_page1.data['language'] = language
-          
+          new_page1.data['languages'] = page_languages
+          page_languages << {'name' => language, 'path' => new_page1.basename + '.html'}
+
           # For languages other than English, move the title and content.
           if iso_code != 'en'
             new_page1.data['title'] = old_page.data['title-' + iso_code]
@@ -45,7 +49,7 @@ module Languages
             new_page2.process(new_page2.name)
 
             new_page2.data = old_page.data.clone()
-            new_page2.data['language'] = language
+            new_page2.data['languages'] = page_languages
           
             # For languages other than English, move the title and content.
             if iso_code != 'en'

@@ -15,5 +15,5 @@ markdown: kramdown
 include: ['.htaccess']
 languages:
 - en: English
-- zh-cn: Chinese
-- es: Spanish
+- zh-cn: 中国
+- es: Español
