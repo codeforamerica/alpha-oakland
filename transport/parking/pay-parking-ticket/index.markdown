@@ -1,11 +1,13 @@
 ---
-layout: article
-title:  "Parking a parking ticket"
-date:   2014-09-20 12:13:10
-categories: transport/parking
-departments: "Parking Citation Assistance Center"
+"body-es": ""
+"body-zh-cn": ""
+"layout": |-
+  article
+"title": |-
+  Pay a parking ticket
+"title-es": ""
+"title-zh-cn": ""
 ---
-
 <p class="cta">Pay <a href="https://prodpci.etimspayments.com/pbw/include/oakland/input.jsp">online</a> using a credit card</p>
 
 ## What you need to know
